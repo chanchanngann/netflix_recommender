@@ -1,4 +1,4 @@
-# Netflix - Movie Recommender and EDA with Plotly
+# Netflix - Movie Recommender and EDA with Plotly (https://github.com/chanchanngann/netflix_recommender/tree/master)
 
 * Created a movie recommender to suggest 10 movies on Netflix that are similar to the movie-in-interest.
 * Used Plotly to do the EDA to explore the TV shows and Movie data on Netflix, answering some inspiring questions:
