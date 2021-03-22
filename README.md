@@ -17,7 +17,7 @@
 #### Program types on netflix
 ![](https://github.com/chanchanngann/netflix_recommender/blob/master/plot_image/1_tv_to_movie.png)
 
-Movie to TV contents ratio is 70:30 on netflix.
+Movie to TV contents ratio is 70:30 on Netflix.
 
 #### Top 20 countries with most content
 ![](https://github.com/chanchanngann/netflix_recommender/blob/master/plot_image/2_top20_countries.png)
