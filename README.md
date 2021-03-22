@@ -1,4 +1,3 @@
-# netflix_recommender
 # Netflix - Movie Recommender and EDA with Plotly
 
 * Created a movie recommender to suggest 10 movies on Netflix that are similar to the movie-in-interest.
