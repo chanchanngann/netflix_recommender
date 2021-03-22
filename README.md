@@ -11,7 +11,7 @@
    3. Is Netflix has increasingly focusing on TV rather than movies in recent years?
 
 #### Program types on netflix
-![](/plot_image/1_tv_to_movie.png)
+![](https://github.com/chanchanngann/netflix_recommender/blob/master/plot_image/1_tv_to_movie.png)
 Movie to TV contents ratio is 70:30 on netflix.
 
 #### Top 20 countries with most content
