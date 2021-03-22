@@ -8,3 +8,5 @@
    2. Understanding what content is available in different countries (the US vs. Korea)
 
    3. Is Netflix has increasingly focusing on TV rather than movies in recent years?
+
+Data Source: https://www.kaggle.com/shivamb/netflix-shows
