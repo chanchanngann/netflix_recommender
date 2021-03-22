@@ -26,7 +26,7 @@ Rank #1 is the US, followed by India and the UK. The US is more than 3 times of 
 The result is quite insteresting for Movie vs TV program split. Movie got higher share in US, but opposite result seen in Japan, South Korea, Taiwan - TV contents showed higher share.
 
 #### Q1. What are the target audience in the top 10 countries?
-![]https://github.com/chanchanngann/netflix_recommender/blob/master/plot_image/3_target_audience.png)
+![](https://github.com/chanchanngann/netflix_recommender/blob/master/plot_image/3_target_audience.png)
 
 In general, Asian countries (South Korea, India, Japan) have lower proportion on adult contents (26% - 44%) while western countries have higher proportion on adults contents (42% - 79%). For the extreme cases, Spain has almost 80% occupied by adults content while india only has 26% adults content. Most content available in india is kids programs.(72%)
 
