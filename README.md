@@ -8,3 +8,20 @@
    2. Understanding what content is available in different countries (the US vs. Korea)
 
    3. Is Netflix has increasingly focusing on TV rather than movies in recent years?
+
+### Program types on netflix
+![](/plot_image/1_tv_to_movie.png)
+Movie to TV contents ratio is 70:30 on netflix.
+
+### Top 20 countries with most content
+![](/plot_image/2_top20_countries.png)
+Rank #1 is the US, followed by India and the UK. The US is more than 3 times of India in programs count.
+The result is quite insteresting for Movie vs TV program split. Movie got higher share in US, but opposite result seen in Japan, South Korea, Taiwan - TV contents showed higher share.
+
+![](/plot_image/3_target_audience.png)
+![](/plot_image/4_genres_korea.png)
+![](/plot_image/5_genres_us.png)
+![](/plot_image/6_released_yr.png)
+![](/plot_image/7_added_yr.png)
+![](/plot_image/8_tv_to_movie_by_yr.png)
+
