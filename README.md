@@ -11,6 +11,8 @@
 
 * Part 2. Created a movie recommender to suggest 10 movies on Netflix that are similar to the movie-in-interest.
 
+Data Source: https://www.kaggle.com/shivamb/netflix-shows
+
 ***
 
 ### Part 1 - EDA
