@@ -1,6 +1,10 @@
 # [Netflix - Movie Recommender and EDA with Plotly](https://github.com/chanchanngann/netflix_recommender/tree/master)
 
 ### Summary
+
+Pls find the code & dynamic output here:
+https://nbviewer.jupyter.org/github/chanchanngann/netflix_recommender/blob/master/netflix_rev.ipynb
+
 * Part 1. Used Plotly to do the EDA to explore the TV shows and Movie data on Netflix, answering some inspiring questions:
 
    1. What are the target audience in different countries?
